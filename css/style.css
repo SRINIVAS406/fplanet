@@ -329,7 +329,6 @@ fieldset[disabled] .btn-xl.active {
 }
 
 @media (min-width:768px) {
-   
     .navbar-default {
         background-color: transparent;
         padding: 12px 0;
@@ -364,6 +363,9 @@ fieldset[disabled] .btn-xl.active {
 }
 
 @media (max-width: 990px) {
+    .intro-paragraph{
+        font-size:10px;
+    }
     .navbar-header {
         float: none;
     }
@@ -622,9 +624,6 @@ video {
 }
 }
 @media (max-width: 920px){
- .intro-paragraph{
-        font-size: 50%;
-    }
 .carousel-caption {top:0%;}
 .intro-text .intro-paragraph {
     font-size: 12px;
@@ -706,7 +705,7 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-    font-size: 18px;
+    font-size: 1vw;
     line-height: 26px;
     font-family: 'Source Sans Pro', sans-serif;
     text-transform: none;
@@ -1916,3 +1915,4 @@ ul.social-buttons li a:active {
     float: left;
     width: 100%;
 }
+
