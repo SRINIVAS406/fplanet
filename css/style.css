@@ -329,6 +329,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 @media (min-width:768px) {
+   
     .navbar-default {
         background-color: transparent;
         padding: 12px 0;
@@ -621,7 +622,9 @@ video {
 }
 }
 @media (max-width: 920px){
-
+    .intro-paragraph{
+        font-size: xx-small;
+    }
 .carousel-caption {top:0%;}
 .intro-text .intro-paragraph {
     font-size: 12px;
