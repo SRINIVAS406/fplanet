@@ -622,8 +622,8 @@ video {
 }
 }
 @media (max-width: 920px){
-    .intro-paragraph{
-        font-size: xx-small;
+ .intro-paragraph{
+        font-size: 50%;
     }
 .carousel-caption {top:0%;}
 .intro-text .intro-paragraph {
