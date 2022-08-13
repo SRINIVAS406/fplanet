@@ -1916,3 +1916,5 @@ ul.social-buttons li a:active {
     width: 100%;
 }
 
+/* service info */
+#moreserviceinfo {display: none;}
