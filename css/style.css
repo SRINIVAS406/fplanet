@@ -671,7 +671,7 @@ section#services .section-subheading {
 }
 
 section h2.section-heading {
-    font-size: 40px;
+    /* font-size: 40px; */
     margin-top: 0;
     text-align: center;
     text-transform: uppercase !important;
