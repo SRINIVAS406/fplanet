@@ -103,7 +103,7 @@ h4,
 h5,
 h6 {
     font-family: "lato";
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-weight: 900;
 
 }
