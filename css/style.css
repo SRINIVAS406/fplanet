@@ -4,7 +4,7 @@ html {
   }
 body {
     overflow-x: hidden;
-    font-family: 'Lato', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     font-family: Montserrat,sans-serif !important;
@@ -77,7 +77,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: "lato";
+    font-family: "Montserrat";
     /* text-transform: uppercase; */
     font-weight: 900;
 
@@ -99,8 +99,8 @@ h6 {
     color: #fff;
     background-color: #058BCE;
     border-color: #058BCE;
-    font-family: "lato";
-    text-transform: uppercase;
+    font-family: "Montserrat";
+    /* text-transform: uppercase; */
     font-weight: 700
 }
 
@@ -147,8 +147,8 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl {
     color: #fff;
     background-color: #058BCE;
-    font-family: "lato";
-    text-transform: uppercase;
+    font-family: "Montserrat";
+    /* text-transform: uppercase; */
     font-weight: 700;
     border-radius: 0;
     font-size: 18px;
@@ -266,8 +266,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .nav li a {
-    font-family: "lato";
-    text-transform: uppercase;
+    font-family: "Montserrat";
+    /* text-transform: uppercase; */
     font-weight: 300;
     color: #fff;
 }
@@ -394,8 +394,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .intro-text .intro-lead-in {
-    font-family: "lato";
-    text-transform: uppercase;
+    font-family: "Montserrat";
+    /* text-transform: uppercase; */
     font-weight: 700;
     font-size: 20px;
     line-height: 80px;
@@ -404,7 +404,7 @@ fieldset[disabled] .btn-xl.active {
 
 .intro-text .intro-heading {
     font-family: 'Droid Serif', serif;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     font-size: 70px;
     line-height: 0px;
     margin-bottom: 10px
@@ -674,7 +674,7 @@ section h2.section-heading {
     /* font-size: 40px; */
     margin-top: 0;
     text-align: center;
-    text-transform: uppercase !important;
+    /* text-transform: uppercase !important; */
     color: #058BCE;
     
 }
@@ -736,7 +736,7 @@ section h3.section-subheading {
         font-size: 43px;
         margin-top: 0;
         text-align: center;
-        text-transform: uppercase !important;
+        /* text-transform: uppercase !important; */
         color: #058BCE;
     }
     section h3.section-subheading {
@@ -1115,7 +1115,7 @@ section#portfolio {
 
 .portfolio-wrapper ul.filter li {
     float: left;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     margin-right: 25px;
     font-weight: 600;
 }
@@ -1145,7 +1145,7 @@ section#portfolio {
 
 .portfolio-wrapper .overlay-subheading {
     font-family: 'Droid Serif', serif;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     
     font-size: 18px;
 }
@@ -1211,7 +1211,7 @@ ul.filter li a {
     border-radius: 0;
     background-color: #058BCE;
     color: #fff;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     text-decoration: none;
     font-family: 'Source Sans Pro', sans-serif;
     font-weight: 500;
@@ -1396,7 +1396,7 @@ body {
 }
 
 .pricing a.btn-send {
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
     margin-bottom: 20px;
     padding: 15px 60px;
     background-color: #058BCE;
@@ -1572,7 +1572,7 @@ section#contact .section-heading-contact {
     font-size: 60px;
     margin-top: 0;
     text-align: center;
-    text-transform: uppercase !important;
+    /* text-transform: uppercase !important; */
     color: #fff !important;
 }
 section#contact .form-group {
@@ -1593,26 +1593,26 @@ section#contact .form-control:focus {
     box-shadow: none
 }
 section#contact::-webkit-input-placeholder {
-    font-family: "lato";
-    text-transform: uppercase;
+    font-family: "Montserrat";
+    /* text-transform: uppercase; */
     font-weight: 700;
     color: #bbb
 }
 section#contact:-moz-placeholder {
-    font-family: "lato";
-    text-transform: uppercase;
+    font-family: "Montserrat";
+    /* text-transform: uppercase; */
     font-weight: 700;
     color: #bbb
 }
 section#contact::-moz-placeholder {
-    font-family: "lato";
-    text-transform: uppercase;
+    font-family: "Montserrat";
+    /* text-transform: uppercase; */
     font-weight: 700;
     color: #bbb
 }
 section#contact:-ms-input-placeholder {
-    font-family: "lato";
-    text-transform: uppercase;
+    font-family: "Montserrat";
+    /* text-transform: uppercase; */
     font-weight: 700;
     color: #bbb
 }
@@ -1676,7 +1676,7 @@ footer {
     padding-top: 25px;
 }
 footer span.copyright {
-    font-family: "lato";
+    font-family: "Montserrat";
     text-transform: none;
     color: #757575;
     float: left;
