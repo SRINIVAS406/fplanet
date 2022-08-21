@@ -1654,8 +1654,8 @@ footer {
 }
 .footer-logo {
     float: left;
-    margin-bottom: 20px;
-    width: 170px;
+    /* margin-bottom: 20px; */
+    width: 120px;
 }
 .footer-text {
     color: #fff;
