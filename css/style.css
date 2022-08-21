@@ -1652,11 +1652,11 @@ footer {
 .footer-info {
     padding: 0px !important;
 }
-.footer-logo {
+/* .footer-logo {
     float: left;
     /* margin-bottom: 20px; */
-    width: 120px;
-}
+    width: 10px;
+} */
 .footer-text {
     color: #fff;
     font-family: 'Source Sans Pro', sans-serif;
