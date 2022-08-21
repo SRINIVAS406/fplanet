@@ -1,5 +1,7 @@
 $(function(){
-    
+  $('.navbar-nav>li>a').on('click', function(){
+    $('.navbar-collapse').collapse('hide');
+});
     $('.items').slick({
   dots: true,
   infinite: true,
