@@ -1909,6 +1909,7 @@ ul.social-buttons li a:active {
         font-size:30px;
     }
     p, li{
+        margin:0px;
         padding-bottom: 15px;
         font-size: 20px;
     }
