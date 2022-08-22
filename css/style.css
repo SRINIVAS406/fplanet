@@ -680,8 +680,8 @@ section h2.section-heading {
 }
 
 section h3.section-subheading {
-    font-size: 1vw;
-    line-height: 26px;
+    font-size: 2vw;
+    line-height: 35px;
     font-family: 'Source Sans Pro', sans-serif;
     text-transform: none;
     text-align: center;
@@ -1654,14 +1654,15 @@ footer {
 }
 /* .footer-logo {
     float: left;
-    /* margin-bottom: 20px; */
+    
     width: 10px;
 } */
+
 .footer-text {
     color: #fff;
     font-family: 'Source Sans Pro', sans-serif;
-    font-size: 14px;
-    line-height: 21px;
+    /* font-size: 14px; */
+    /* line-height: 21px; */
     float: left;
     text-align: center;
 }
@@ -1893,3 +1894,26 @@ ul.social-buttons li a:active {
 
 /* service info */
 #moreserviceinfo {display: none;}
+
+
+
+/* Font size increase for desktop view */
+@media (min-width:1080px){
+    h3{
+        font-size:35px;
+    }
+    h5{
+        font-size:25px;
+    }
+    h4{
+        font-size:30px;
+    }
+    p, li{
+        padding-bottom: 15px;
+        font-size: 20px;
+    }
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    line-height: 2.1;
+}
